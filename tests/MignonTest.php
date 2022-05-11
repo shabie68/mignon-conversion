@@ -3,5 +3,5 @@
 it('can test', function () {
     // expect(true)->toBeTrue();
     $user = "Hello user";
-    expect($user)->toStartWith('Helljo');
+    expect($user)->toStartWith('Hello');
 });
