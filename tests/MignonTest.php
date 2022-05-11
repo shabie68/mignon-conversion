@@ -3,5 +3,6 @@
 it('can test', function () {
     // expect(true)->toBeTrue();
     $user = "Hello user";
+    $arr = ['hello'];
     expect($user)->toStartWith('Hello');
 });
